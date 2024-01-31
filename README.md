@@ -21,3 +21,5 @@ Because Swamp Services needs UFID to access, if any crime or harassment occurs, 
 
 - Require status checks to pass before merging
     - Require branches to be up to date before merging
+
+- Require conversation resolution before merging
